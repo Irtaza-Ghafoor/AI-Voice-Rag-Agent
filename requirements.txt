@@ -1,0 +1,11 @@
+gradio
+groq
+gTTS
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-groq
+pypdf
+sentence-transformers
+chromadb
