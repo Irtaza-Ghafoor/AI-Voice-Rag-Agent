@@ -1,7 +1,7 @@
 import os
 import gradio as gr
 from groq import Groq
-from gTTS import gTTS
+from gttS import gTTS
 
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
